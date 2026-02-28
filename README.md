@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/⬇️_DOWNLOAD_HTML_FILE-00dfff?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=00dfff)](https://raw.githubusercontent.com/Pabasaralakmal2/Relay-Pattern-Controller/blob/main/index.html)
+[![DOWNLOAD](https://img.shields.io/badge/⬇️_DOWNLOAD_HTML_FILE-00dfff?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=00dfff)](https://github.com/Pabasaralakmal2/Relay-Pattern-Controller/blob/main/index.html)
 
 **Right-click → Save As → Open in Browser!** ✨
 
