@@ -229,7 +229,7 @@ void loop() {
 
 [![GitHub](https://img.shields.io/badge/GITHUB-PABABASARA-00dfff?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Pabasaralakmal2/)
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:pabasaralakmal275@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](pabasaralakmal275@gmail.com)
 
 </div>
 
