@@ -227,9 +227,9 @@ void loop() {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-PABABASARA-00dfff?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-@pababasara-ff49b4?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:email@example.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-PABABASARA-00dfff?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Pabasaralakmal2/)
+
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:pabasaralakmal275@gmail.com)
 
 </div>
 
