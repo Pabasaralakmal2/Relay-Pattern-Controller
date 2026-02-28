@@ -129,7 +129,7 @@ graph LR
 </div>
 
 ## ⚙️ *TECHNICAL SPECS*
-
+```
 
 {
   "relays": "8 channels",
@@ -188,28 +188,8 @@ void loop() {
 
 ## 📸 *SCREENSHOT*
 
-<div align="center">
 
 
-┌─────────────────────────────────────────────────┐
-│          RELAY PATTERN CONTROLLER              │
-│              by PABABASARA                      │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│    [ 🔽 Blink All 🔽 ]  (Neon Blue)            │
-│                                                 │
-│    ═══════════════════════════════════════      │
-│    Speed: 1000 ms                               │
-│    ⚫───────────⚪───────────⚪                 │
-│    ═══════════════════════════════════════      │
-│                                                 │
-│    [ 💗 Turn Motor ON 💗 ] (Neon Pink)         │
-│                                                 │
-│    [Start Pattern] [Stop All] [Play All]       │
-│                                                 │
-│                THANK YOU                        │
-│                 (Neon Red)                      │
-└─────────────────────────────────────────────────┘
 
 
 </div>
